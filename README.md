@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Pranav H!
 
+🎓 Final-year B.Tech student in Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham, Bengaluru  
+💡 Passionate about bridging AI research with real-world product innovation 
+
 <!--
 **Pranav-Nexus/Pranav-Nexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
