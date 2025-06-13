@@ -11,6 +11,13 @@
 </p>
 
 
+
+
+## 🚀 About Me
+
+I'm an AI enthusiast with a strong foundation in engineering, research, and product thinking. With a CGPA of 9.11, publications in IEEE, and a portfolio of deep-tech projects in GenAI, cybersecurity, and FinTech, I combine academic rigor with hands-on execution. My work spans across LLM evaluation, code translation, network intrusion detection, and identity-preserved image generation.
+
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -26,11 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
 </div>
 
-
-
-## 🚀 About Me
-
-I'm an AI enthusiast with a strong foundation in engineering, research, and product thinking. With a CGPA of 9.11, publications in IEEE, and a portfolio of deep-tech projects in GenAI, cybersecurity, and FinTech, I combine academic rigor with hands-on execution. My work spans across LLM evaluation, code translation, network intrusion detection, and identity-preserved image generation.
 
 
 <!--
