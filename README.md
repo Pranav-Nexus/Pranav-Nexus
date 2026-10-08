@@ -6,18 +6,17 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40Pranavv__H-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Pranavv_H)
 [![Location](https://img.shields.io/badge/Location-India-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
 
-**Automation Engineer (QA & AI) @ Envestnet** specializing in **Agentic Workflows**, **LLM Ops**, and **Autonomous Testing Frameworks**.  
-Passionate about engineering reliable developer tooling, protocol-driven AI agent architectures (MCP), and enterprise-grade test automation with Playwright.
+**AI & Automation Engineer** specializing in **Agentic Workflows**, **LLM Ops**, and **Autonomous Testing Frameworks**.  
+Passionate about engineering reliable developer tooling, protocol-driven AI agent architectures (MCP), and resilient test automation with Playwright.
 
 ---
 
-## 🎯 Executive Snapshot & Industry Accolades
+## 🎯 Focus & Background
 
-- 🏆 **Awarded Q2 2026 ALPHA GEEK Award (Envestnet):** Architected and deployed an automated **Code Review Agent** for Merge Requests (MRs), enforcing strict repository conventions, catching edge-case defects, and slashing manual review overhead.
-- 🏆 **Awarded Q1 2026 GEM Award (Envestnet):** Built custom **Model Context Protocol (MCP)** servers and Agentic Workflows that automated test script generation and JIRA monitoring, scaling test automation coverage from **20% to 75%** during the enterprise Selenium → Playwright migration.
-- 🔬 **Enterprise AI Pilot Benchmarking:** Established LLM evaluation testbeds using **DeepEval** and **RAGAS** to stress-test retrieval precision, hallucination rates, and tool-calling reliability across production agent candidate platforms.
-- 🎓 **Academic Rigor:** B.Tech in CSE (Artificial Intelligence) from Amrita Vishwa Vidyapeetham (**Rank: 6th | CGPA: 9.11/10**).
-- 📜 **Published Researcher:** 2 peer-reviewed conference publications in IEEE proceedings on cybersecurity botnet detection and on-device multi-language code translation.
+- 🤖 **Agentic AI & LLM Ops:** Designing autonomous multi-agent systems, protocol-driven developer tooling (MCP), and rigorous LLM evaluation pipelines using DeepEval and RAGAS to stress-test retrieval accuracy, hallucination rates, and tool-calling reliability.
+- 🧪 **Autonomous Testing & Diagnostics:** Building next-generation web automation engines, diagnostic parsers, and self-healing test frameworks with Playwright and PyTest.
+- 🎓 **Academic Background:** B.Tech in CSE (Artificial Intelligence) from Amrita Vishwa Vidyapeetham (**Rank: 6th | CGPA: 9.11/10**).
+- 📜 **Published Researcher:** 2 peer-reviewed conference publications in IEEE proceedings on cybersecurity botnet detection (AICAI 2024) and on-device code translation (ICCCNT @ IIT Mandi).
 
 ---
 
