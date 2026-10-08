@@ -1,51 +1,73 @@
-## Hi there 👋 I'm Pranav H!
+# Hi there, I'm Pranav H 👋
 
-🎓 Final-year B.Tech student in Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham, Bengaluru  
-💡 Passionate about bridging AI research with real-world product innovation 
-</n>
-</n>
-<p>
-  <a href="https://www.linkedin.com/in/pranav-h-a08744250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Pranavv_H"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://pranav-nexus.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=jekyll&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20H-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-h-a08744250/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranav--nexus.github.io-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://pranav-nexus.github.io/)
+[![Email](https://img.shields.io/badge/Email-pranav.03.h%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranav.03.h@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40Pranavv__H-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Pranavv_H)
+[![Location](https://img.shields.io/badge/Location-India-555555?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com)
+
+**Automation Engineer (QA & AI) @ Envestnet** specializing in **Agentic Workflows**, **LLM Ops**, and **Autonomous Testing Frameworks**.  
+Passionate about engineering reliable developer tooling, protocol-driven AI agent architectures (MCP), and enterprise-grade test automation with Playwright.
+
+---
+
+## 🎯 Executive Snapshot & Industry Accolades
+
+- 🏆 **Awarded Q2 2026 ALPHA GEEK Award (Envestnet):** Architected and deployed an automated **Code Review Agent** for Merge Requests (MRs), enforcing strict repository conventions, catching edge-case defects, and slashing manual review overhead.
+- 🏆 **Awarded Q1 2026 GEM Award (Envestnet):** Built custom **Model Context Protocol (MCP)** servers and Agentic Workflows that automated test script generation and JIRA monitoring, scaling test automation coverage from **20% to 75%** during the enterprise Selenium → Playwright migration.
+- 🔬 **Enterprise AI Pilot Benchmarking:** Established LLM evaluation testbeds using **DeepEval** and **RAGAS** to stress-test retrieval precision, hallucination rates, and tool-calling reliability across production agent candidate platforms.
+- 🎓 **Academic Rigor:** B.Tech in CSE (Artificial Intelligence) from Amrita Vishwa Vidyapeetham (**Rank: 6th | CGPA: 9.11/10**).
+- 📜 **Published Researcher:** 2 peer-reviewed conference publications in IEEE proceedings on cybersecurity botnet detection and on-device multi-language code translation.
+
+---
+
+## 🚀 Featured Flagship Projects
+
+| Project | Category | Description | Key Tech |
+| :--- | :--- | :--- | :--- |
+| [**playwright-trace-doctor**](https://github.com/Pranav-Nexus/playwright-trace-doctor) | **QA & AI Diagnostics** | **The Instant MRI for Broken Web Tests.** One-shot diagnostic & self-healing intelligence engine for Playwright traces with correlated upstream 5xx/4xx failure detection (<5ms latency, dual CLI & MCP). | `Playwright` `TypeScript` `MCP` `Node.js` `CI/CD` |
+| [**mcp-verify**](https://github.com/Pranav-Nexus/mcp-verify) | **LLM Ops & Safety** | **ESLint for AI Tools.** Automated LLM-readiness, schema contract, and safety linter for Model Context Protocol (MCP) servers, preventing agent hallucinations and unguarded mutations before deployment. | `TypeScript` `MCP` `JSON Schema` `Ajv` `CLI` |
+| [**antigravity-skill-porter**](https://github.com/Pranav-Nexus/antigravity-skill-porter) | **Agentic Workflows** | Bridge the AI Agent ecosystem: Transpiler and optimizer porting Claude Code & Cursor skills into Google Antigravity native multi-agent plugins with parallel subagents (`invoke_subagent`). | `Python` `Agentic AI` `Google Antigravity` `AST` |
+| [**omniget**](https://github.com/Pranav-Nexus/omniget) | **Systems & Tooling** | Universal Windows package manager wrapper unifying WinGet, Chocolatey, and Scoop with parallel Runspaces, live environment variable broadcasting, and declarative sync. Packaged on WinGet (`Nexus.OmniGet`). | `PowerShell` `WinGet` `Windows API` `CLI` |
+| [**HTTP C2 Detection & Analysis**](https://github.com/Pranav-Nexus/HTTP-C2-Detection-and-Analysis-using-MongoDB) | **Published Research** | Real-time behavioral detection of HTTP-based Command & Control botnets using MongoDB and machine learning. Published in IEEE AICAI 2024. | `Python` `MongoDB` `Scikit-Learn` `Threat Intel` |
+| [**On-Device Code Translation**](https://github.com/Pranav-Nexus/On-Device-Translation-of-Dynamically-Typed-Interpreted-Languages) | **Published Research** | Lightweight AST-based on-device semantic code translation between dynamically typed interpreted languages. Published in IEEE ICCCNT at IIT Mandi. | `Python` `AST` `Compilers` `Language Translation` |
+| [**TRASIS**](https://github.com/Pranav-Nexus/TRASIS) | **FinTech & Trading** | Algorithmic trading bot combining moving average crossover strategies (SMA/WMA) and financial news sentiment analysis for automated trade execution. | `Python` `Pandas` `Sentiment Analysis` `NumPy` |
+
+---
+
+## 🛠️ Technical Skills
+
+```
+AI & LLM Ops          : Model Context Protocol (MCP), Agentic Workflows, DeepEval, RAGAS,
+                        LangChain, Prompt Engineering, Computer Vision, OCR (AWS Textract, Tesseract)
+Automation & QA       : Playwright, Selenium, PyTest, AI Monitoring Protocols, Regression Testing,
+                        End-to-End Test Framework Architecture, Self-Healing Locators
+Languages             : Python, TypeScript, JavaScript, SQL, C++, Java, PowerShell, HTML/CSS
+Tools, Cloud & CI/CD  : AWS (EC2, S3, Lambda), GCP, Docker, GitHub Actions, MongoDB,
+                        Mixpanel, Appcues, Git
+```
+
+---
+
+## 🤝 Open Source & PR Culture
+
+I take pull requests and code review seriously:
+- **Clean Architecture & Reproducibility:** Every tool includes clear setup commands, automated test suites, and strict linting.
+- **Contract & Schema Safety:** Enforcing deterministic schema contracts for agentic tools and robust error handling.
+- **Automated Verification:** Standardized GitHub Actions CI workflows on every repository to prevent regressions.
+- **Contributions Welcome:** All flagship repositories include PR templates, issue templates, and comprehensive `CONTRIBUTING.md` guides.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Nexus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pranav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Nexus&theme=tokyonight&hide_border=true" alt="Pranav's GitHub Streak" width="48%" />
 </p>
 
+---
 
-
-
-## 🚀 About Me
-
-I'm an AI enthusiast with a strong foundation in engineering, research, and product thinking. With a CGPA of 9.11, publications in IEEE, and a portfolio of deep-tech projects in GenAI, cybersecurity, and FinTech, I combine academic rigor with hands-on execution. My work spans across LLM evaluation, code translation, network intrusion detection, and identity-preserved image generation.
-
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang" width="40" height="40"/>
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
-</div>
-
-
-
-<!--
-**Pranav-Nexus/Pranav-Nexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Let's build reliable, agentic systems together. Feel free to connect via <a href="https://www.linkedin.com/in/pranav-h-a08744250/">LinkedIn</a> or reach out at <a href="mailto:pranav.03.h@gmail.com">pranav.03.h@gmail.com</a>.</i>
+</p>
